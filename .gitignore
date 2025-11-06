@@ -1,0 +1,6 @@
+# Directorio del Entorno Virtual (TU CASO)
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
